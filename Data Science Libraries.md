@@ -1,0 +1,23 @@
+Matplotlib
+Scikit-Learn
+Seaborn
+NumPy
+SciPy
+Keras
+Pandas
+TensorFlow
+Pytorch
+Ploty
+Statsmodels
+Pycaret
+XGBoost
+Bokeh
+Beautiful Soup
+Theano
+LightGBM
+Altair
+Deeplearning
+Scrapy
+Ggplot2
+NLTK
+AutoViz
